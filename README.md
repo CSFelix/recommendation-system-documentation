@@ -29,3 +29,5 @@
 [2 | 📃 Research Project](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.2%20-%20Projeto%20de%20Pesquisa.docx)
 
 [3 | 📃 Preliminary Results](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.3%20-%20Resultados%20Preliminares.docx)
+
+[4 | 📃 Capstone](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.4%20-%20TCC.docx)
