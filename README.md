@@ -31,3 +31,7 @@
 [3 | 📃 Preliminary Results](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.3%20-%20Resultados%20Preliminares.docx)
 
 [4 | 📃 Capstone](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.4%20-%20TCC.docx)
+
+[5.0 | 📃 Slides (Final Version)](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.5%20-%20Slides.pptx)
+
+[5.1 | 📃 Slides (Alternative Version)](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.5%20-%20Slides%20-%20alpha%20version.pptx)
