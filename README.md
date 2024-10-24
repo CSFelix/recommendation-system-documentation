@@ -35,3 +35,5 @@
 [5.0 | 📃 Slides (Final Version)](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.5%20-%20Slides.pptx)
 
 [5.1 | 📃 Slides (Alternative Version)](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.5%20-%20Slides%20-%20alpha%20version.pptx)
+
+[5.0 | 📃 Slides (PDF Version)](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.5%20-%20Slides.pdf)
