@@ -32,8 +32,4 @@
 
 [4 | 📃 Capstone](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.4%20-%20TCC.docx)
 
-[5.0 | 📃 Slides (Final Version)](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.5%20-%20Slides%20-%20Final%20Version.pptx)
-
-[5.1 | 📃 Slides (PDF Version)](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.5%20-%20Slides%20-%20Final%20Version.pdf)
-
-[5.2 | 📃 Slides (Alternative Version)](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.5%20-%20Slides%20-%20alpha%20version.pptx)
+[5.0 | 📃 Slides](https://github.com/CSFelix/recommendation-system-documentation/blob/main/src/1.5%20-%20Slides.pptx)
